@@ -1,0 +1,29 @@
+# Firebase Admin SDK
+firebase-admin>=6.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Video processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# OpenAI API
+openai>=1.0.0
+
+# Anthropic API
+anthropic>=0.7.0
+
+# Google AI
+google-generativeai>=0.3.0
+
+# Video downloading
+yt-dlp>=2023.10.13
+
+# FastAPI (if running the API server)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+
+# Additional utilities
+python-dotenv>=1.0.0

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment - IMPORTANT!
+venv/
+env/
+ENV/
+
+# Sensitive files
+.env
+serviceAccountKey.json
+*.json
+
+# Temporary
+*.mp4
+*.webm
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Weekly automation folder (if it's a separate project)
+weekly-automation/
